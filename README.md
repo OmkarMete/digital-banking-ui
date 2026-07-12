@@ -48,7 +48,7 @@ digital-banking-ui
 ## 📸 Preview
 
 <img width="1536" height="863" alt="image" src="https://github.com/user-attachments/assets/fbd3b97c-466e-4f3e-b9f1-18ccd25248e5" />
-
+<img width="1536" height="817" alt="image" src="https://github.com/user-attachments/assets/3e3305ea-9b64-46de-80a9-1f768f3aa712" />
 
 ## ⚙️ Installation
 
